@@ -1,3 +1,8 @@
+#
+# Un simple gain à la ligne 28, afin de rendre ça plus clair et de faire la vérification sans boucle, et avec
+# une seule ligne
+#
+#
 #!/usr/bin/env python
 #exemple raté, affiche entre 2 hastags et une ligne après l'autre
 #chaine = "adroit#a3#vroom#b52#colorant#e111"
