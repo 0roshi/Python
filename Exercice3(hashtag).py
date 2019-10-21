@@ -1,4 +1,10 @@
 #!/usr/bin/env python
+#
+# L'objectif ici est d'afficher chaque portion terminée par un chiffre d'une chaîne de caractère dont les portions sont
+# délimitées par un #, et afficher les résultats sous la forme d'une chaine séparant chaque portion par un ;
+# exemple: adroit#a3#vroom#b52#colorant#e111 doit renvoyer a3;b52;e111
+#
+#
 #exemple raté, affiche entre 2 hastags et une ligne après l'autre
 #chaine = "adroit#a3#vroom#b52#colorant#e111"
 #test = 1
