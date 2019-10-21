@@ -1,4 +1,8 @@
 #!/usr/bin/env python
+# objectif: indiquer si l'année saisie par l'utilisateur est bissextile ou non 
+
+
+
 print("Saisissez l'année, vous saurez si elle est bissextile ou non.")
 annee = int(input())
 #on vérifie que l'année est divisible par 4 et pas par 100, ou par 400
